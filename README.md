@@ -19,7 +19,7 @@ pip install --upgrade gdown
 ```
 
 
-Create the required directories.
+Create the required directories.(Or download manually at [Google Drive](https://drive.google.com/drive/folders/1z2p7_cd33m0PG1qxrrceCGnGylLJonSy?usp=sharing))
 ```shell
 mkdir notebook
 cd notebook
