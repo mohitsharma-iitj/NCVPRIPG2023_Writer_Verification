@@ -180,8 +180,8 @@ def prediction2(model,path1,path2):
 #         else:
 #             y_preds.append(0)
     return np.mean(y_pred)
-model2 = tf.keras.models.load_model("notebook/pretrained_model_vgg16_nn_data.h5")
+model2 = tf.keras.models.load_model("pretrained_model_vgg16_nn_data.h5")
 model2.summary()
-print(prediction2(model2,"notebook/test/img1.jpg","notebook/test/img2.jpg"))
+print(prediction2(model2,"test/img1.jpg","test/img2.jpg"))
 
 
