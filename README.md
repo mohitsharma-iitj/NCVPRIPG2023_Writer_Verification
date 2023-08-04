@@ -49,7 +49,7 @@ gdown 'https://drive.google.com/uc?id=1848Iu-JKXWSBgFvBN50-l-ZXXKgqkRJf'
 ## Generating Results on Test Set
 On pretrained model (take input from notebook/test)
 ```shell
-python test_pretrained.py 
+python pretrained_model_test.py 
 ```
 On pretrained data (take input from notebook/train , notebook/test ,notebook/val ).
 Have to train it first.
