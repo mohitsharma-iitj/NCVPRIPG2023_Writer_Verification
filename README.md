@@ -12,6 +12,7 @@
 
 ## Environment
 Create the required directories by download manually from [Google Drive](https://drive.google.com/drive/folders/1xhPeBt5VeRWNnY8SKLu-cyLjm8CjjdQD?usp=sharing) extract it and open 'notebook' in vscode terminal or command prompt like cd c:\..path..\notebook . You will see requirement.txt, test_pretrained_model.py etc in it. You have path like C:\Users\......\notebook-20230804T162632Z-001\notebook>. Then create the virtual environment in notebook folder as ->
+
 ```shell
 python -m venv virtual_env
 cd virtual_env\Scripts
@@ -30,7 +31,7 @@ pip install -r requirenment.txt
 
 
 ## Download Checkpoints (if training model again)
-If you want to train the model again, download this and store it at a desired location. Initially only few images are there to reduce download size. Download files should be saved at `notebook/train`,`notebook/val`,`notebook/test` after extracting from this [Google Drive link](https://drive.google.com/drive/folders/1kQG-b9Jvha05d-5xQ2yK7cI5pVRSXzex?usp=sharing).
+If you want to train the model again then download this and store it at a desired location. Initially only few images are there to reduce download size. Download files should be saved at `notebook/train`,`notebook/val`,`notebook/test` after extracting from this [Google Drive link](https://drive.google.com/drive/folders/1kQG-b9Jvha05d-5xQ2yK7cI5pVRSXzex?usp=sharing).
 
 
 
