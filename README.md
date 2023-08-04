@@ -12,10 +12,10 @@
 ## Environment
 Install the required libraries.
 ```shell
-python3 -m pip install requirement.txt
+python.exe -m pip install requirement.txt
 pip install gdown
 # to upgrade
-pip install --upgrade gdown
+python.exe -m pip install --upgrade pip
 ```
 
 
