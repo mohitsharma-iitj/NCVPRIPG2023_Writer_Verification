@@ -10,21 +10,22 @@
 
 
 ## Environment
-Install the required libraries.
-```shell
-python.exe -m pip install requirement.txt
-pip install gdown
-# to upgrade
-python.exe -m pip install --upgrade pip
-```
 
-
-Create the required directories.(Or download manually at [Google Drive](https://drive.google.com/drive/folders/1z2p7_cd33m0PG1qxrrceCGnGylLJonSy?usp=sharing))
+Create the required directories(create new folder in vscode in download).(Or download manually from [Google Drive](https://drive.google.com/drive/folders/1z2p7_cd33m0PG1qxrrceCGnGylLJonSy?usp=sharing) and go to that directory.)
 ```shell
 mkdir notebook
 cd notebook
 gdown 'https://drive.google.com/drive/folders/1z2p7_cd33m0PG1qxrrceCGnGylLJonSy?usp=sharing'
 ```
+
+Install the required libraries. {give your own directory path}
+```shell
+pip install -r C:\Users\Dell\Downloads\notebook\requirenment.txt
+pip install gdown
+# to upgrade
+python.exe -m pip install --upgrade pip
+```
+
 Download and extract the dataset train and val(to train the model again) and test(to evaluate model on both self trained and pretrained) CSVs in `data/raw`.
 ```shell
 cd notebook/train
