@@ -11,7 +11,7 @@
 
 ## Environment
 
-Create the required directories(create new folder in vscode in download).(Or download manually from [Google Drive](https://drive.google.com/drive/folders/1z2p7_cd33m0PG1qxrrceCGnGylLJonSy?usp=sharing) and go to that directory.)
+Create the required directories(create new folder in vscode in download).(Or download manually from [Google Drive](https://drive.google.com/drive/folders/1z2p7_cd33m0PG1qxrrceCGnGylLJonSy?usp=sharing) and go to that directory).
 ```shell
 mkdir notebook
 cd notebook
