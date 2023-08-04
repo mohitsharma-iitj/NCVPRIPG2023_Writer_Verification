@@ -31,7 +31,7 @@ pip install -r requirenment.txt
 
 
 ## Download Checkpoints (if training model again)
-If you want to train the model again, download this and store it at a desired location. Initially only few images are there to reduce download size. Download files should be saved at `notebook/train`,`notebook/val`,`notebook/test` after extracting from this [Google Drive link](https://drive.google.com/drive/folders/1AAAuh62G2LHKOPOJvhUkUuC7w6SMKvzI?usp=sharing).
+If you want to train the model again, download this and store it at a desired location. Initially only few images are there to reduce download size. Download files should be saved at `notebook/train`,`notebook/val`,`notebook/test` after extracting from this [Google Drive link](https://drive.google.com/drive/folders/1kQG-b9Jvha05d-5xQ2yK7cI5pVRSXzex?usp=sharing).
 
 
 
