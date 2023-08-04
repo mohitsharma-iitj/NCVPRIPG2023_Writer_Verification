@@ -3,7 +3,7 @@
 ![intro image](assets/img.png)
 
 **Challenge Webpage**: [Summer Challenge on Writer Verification, under NCVPRIPG'23](https://vl2g.github.io/challenges/wv2023)  
-**Web Link**: [Winning the NCVPRIPG23 Challenge on Writer Verification](https://mohitsharma-iitj.github.io/ncvpripg23_writer_verification/)  
+**Web Link**: [Winning the NCVPRIPG23 Challenge on Writer Verification](https://mohitsharma-iitj.github.io/NCVPRIPG2023_Writer_Verification/)  
 **Kaggle Link**: [Summer Challenge on Writer Verification](https://www.kaggle.com/competitions/summer-challenge-on-writer-verification23-finale/leaderboard)  
 **Team Name**: Alpha  
 **Summary Paper**: `assets/NCVPRIPG23_Writer_Verification.pdf`
