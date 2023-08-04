@@ -11,7 +11,7 @@
 
 
 ## Environment
-Create the required directories by download manually from [Google Drive](https://drive.google.com/drive/folders/1xhPeBt5VeRWNnY8SKLu-cyLjm8CjjdQD?usp=sharing) extract it and open 'notebook' in vscode terminal or command prompt by cd c:\..path..\notebook . You will see requirement.txt, test_pretrained_model.py etc in it. You have path like C:\Users\......\notebook-20230804T162632Z-001\notebook>. Then create the virtual environment in notebook folder as ->
+Create the required directories by download manually from [Google Drive](https://drive.google.com/drive/folders/1xhPeBt5VeRWNnY8SKLu-cyLjm8CjjdQD?usp=sharing) extract it and open 'notebook' in vscode terminal or command prompt like cd c:\..path..\notebook . You will see requirement.txt, test_pretrained_model.py etc in it. You have path like C:\Users\......\notebook-20230804T162632Z-001\notebook>. Then create the virtual environment in notebook folder as ->
 ```shell
 python -m venv virtual_env
 cd virtual_env\Scripts
