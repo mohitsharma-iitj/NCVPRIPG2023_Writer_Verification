@@ -17,7 +17,7 @@ Create the required directories by download manually from [Google Drive](https:/
 python -m venv virtual_env
 cd virtual_env\Scripts
 .\activate.bat
-cd ..\..
+cd ../..
 ```
 NOTE: You can also clone this repo to evaluate the result. Do whatever you like, but give path correct as below code run in notebook folder.
 
