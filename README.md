@@ -7,6 +7,8 @@
 **Kaggle Link**: [Summer Challenge on Writer Verification](https://www.kaggle.com/competitions/summer-challenge-on-writer-verification23-finale/leaderboard)  
 **Team Name**: Alpha  
 **Summary Paper**: `assets/NCVPRIPG23_Writer_Verification.pdf`
+**Python Version**: 3.10.5
+**Tensorflow Version**: 2.13
 
 
 ## Environment
