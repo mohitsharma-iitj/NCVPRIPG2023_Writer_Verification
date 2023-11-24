@@ -8,6 +8,10 @@
 **Team Name**: Alpha  
 **Summary Paper**: `assets/NCVPRIPG23_Writer_Verification.pdf`
 
+**Python Version**: `3.10.5`
+
+**Tensorflow Version**: `2.13`
+
 
 
 ## Environment
